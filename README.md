@@ -1,5 +1,10 @@
 # chkdsk-Check-Disk-PowerShell-Automated-Script
 A PowerShell script to automate the process of Chkdsk /f to all available drives on the Windows System.
+
+#Find it here
+https://github.com/kephalian/chkdsk-Check-Disk-PowerShell-Automated-Script/blob/main/chkdsk-all.ps1
+
+
 # Disk Check Script
 
 This PowerShell script runs `chkdsk /f` on all available drives of type 3 (local disks). It is designed to be verbose, providing real-time updates on the progress of the disk check operation.
