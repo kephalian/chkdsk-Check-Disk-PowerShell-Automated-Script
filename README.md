@@ -43,6 +43,7 @@ Running chkdsk /f on drive C: ... (progress updates) ... chkdsk completed on dri
 - Progress updates and exit codes are displayed in the console to keep the user informed.
 - Ensure all work is saved before running this script, as `chkdsk` may require a restart to complete the operation on some drives.
 
+#See Troubleshooting guide here [https://github.com/kephalian/chkdsk-Check-Disk-PowerShell-Automated-Script/blob/main/Troubleshooting.md]
 ## License
 
 This project is licensed under the GPL3 License, attribution is mandatory and derivative work must be released in same GPL3 license.
